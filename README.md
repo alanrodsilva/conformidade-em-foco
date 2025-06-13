@@ -15,7 +15,7 @@ Facilitar a autoavaliação em relação às obrigações da LGPD, fornecendo um
 
 ## 🧰 Tecnologias utilizadas
 
-- HTML5 + CSS3 + JS (básico)
+- HTML5 + CSS3 + JS
 
 - Link da ferramenta:
 https://conformidade-em-foco.web.app/
